@@ -1,2 +1,3 @@
 # DigitalDetectives-1
-Restaurent themed web page
+A basic Portfolio web page that contains html elements like Header, Footer, Nav bar, Table etc.
+
